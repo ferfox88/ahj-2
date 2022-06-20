@@ -1,0 +1,18 @@
+.board-container {
+    width: 400px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0px auto;
+}
+
+.cell {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: black;
+}
+
+.goblin {
+    background: url(2dbd01ce16c0fa83cb67.png);
+    background-size: cover;
+}
