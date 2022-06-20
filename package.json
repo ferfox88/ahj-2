@@ -41,8 +41,9 @@
     "webpack-dev-server": "^4.9.0"
   },
   "dependencies": {
+    "core-js": "^3.6.5",
     "eslint": "^8.15.0",
-    "core-js": "^3.6.5"
+    "push-dir": "^0.4.1"
   },
   "description": "[![Build status](https://ci.appveyor.com/api/projects/status/dfmst0cnownmo61c?svg=true)](https://ci.appveyor.com/project/ferfox88/ahj-2)"
 }
